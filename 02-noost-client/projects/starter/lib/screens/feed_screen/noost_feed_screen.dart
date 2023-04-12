@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:noost_client/component_library/component_library.dart';
 import 'package:noost_client/domain_models/domain_models.dart';
 import 'package:noost_client/helpers/helpers.dart';
-import 'package:noost_client/screens/feed_screen.dart/widgets/widgets.dart';
+import 'package:noost_client/screens/feed_screen/widgets/widgets.dart';
 import 'package:nostr_tools/nostr_tools.dart';
 
 class NoostFeedScreen extends StatefulWidget {

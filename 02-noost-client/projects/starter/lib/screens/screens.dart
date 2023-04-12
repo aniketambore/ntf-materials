@@ -1,1 +1,1 @@
-export 'feed_screen.dart/noost_feed_screen.dart';
+export 'feed_screen/noost_feed_screen.dart';
