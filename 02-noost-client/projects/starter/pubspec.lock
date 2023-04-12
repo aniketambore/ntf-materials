@@ -207,10 +207,10 @@ packages:
     dependency: "direct main"
     description:
       name: nostr_tools
-      sha256: "9665e936e4ce49cf5c2c9a55642bb04ea5cfbb00bdb34e6d9a7a56499dc5858b"
+      sha256: "5536c4017419bcef7777f44f61884a22f864a7a937a3b10254e889ed284757d3"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.6"
+    version: "1.0.7"
   path:
     dependency: transitive
     description:
